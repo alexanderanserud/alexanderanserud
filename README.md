@@ -7,6 +7,6 @@
 
 - I hold an MSc in Computer Science and AI. Been coding for the past 15 years in various roles as a full-stack developer.
 
-- My old student GitHub account was lost in 2023 — hence the timeline reset.
+- My old GitHub account was lost in 2023 — hence the timeline reset.
 
 - Reach me via **[Alexander Anserud](https://www.linkedin.com/in/alexander-anserud/)**
