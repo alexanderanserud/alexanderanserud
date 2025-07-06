@@ -5,8 +5,8 @@
 
 - Check out my recent whitepaper: [Klicka AI – Low-Latency Attended Automation Using On-Premise UI Agents](https://www.klicka.ai/whitepaper)
 
-- I’ve been coding for 15 years and hold an MSc in Computer Science and AI.
+- I hold an MSc in Computer Science and AI. Been coding for the past 15 years in various roles.
 
-- My old GitHub account was lost in 2023 — hence the timeline reset.
+- My old student GitHub account was lost in 2023 — hence the timeline reset.
 
 - Reach me via **[Alexander Anserud](https://www.linkedin.com/in/alexander-anserud/)**
