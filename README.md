@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my vibe account</h1>
+<h1 align="center">Build Mode</h1>
 
 - My main focus is to build an AI operating system for startups: [Valuemaker](https://www.valuemaker.ai)
 
