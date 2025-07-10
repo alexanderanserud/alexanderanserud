@@ -1,5 +1,3 @@
-<h1 align="center">Build Mode</h1>
-
 - My main focus is to build an AI operating system for startups: [Valuemaker](https://www.valuemaker.ai)
 
 - My recent whitepaper: [Klicka AI – Low-Latency Attended Automation Using On-Premise UI Agents](https://www.klicka.ai/whitepaper)
